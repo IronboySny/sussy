@@ -1,9 +1,9 @@
 {
-  "ip": "HiiboySny.aternos.me",
-  "port": 57569,
-  "name": "Donchu",
+  "ip": "DemonboySny.aternos.me",
+  "port": 18877,
+  "name": "AFKbot",
   "auto-night-skip": "false",
   "login-enabled": "true",
-  "register-cmd": "/register 12345",
-  "login-cmd": "/login 12345"
+  "register-cmd": "/register AFKbot",
+  "login-cmd": "/login AFKbot"
 }
